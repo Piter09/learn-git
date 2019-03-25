@@ -1,0 +1,29 @@
+git --amend : them mo ta
+git reset HEAD
+git fetch [origin]
+git push 
+git pull
+git remote shown orgin 
+git remote rename 
+git remote rm name
+git tag -a v1.4 -m "note" : version new
+git co : checkout
+git br:branch
+git ci:commit
+git st : status
+git unstage : 'reset HEAD --'
+git last 
+git visual
+git log --oneline --decorate
+git checkout name-rank
+git checkout master -- begin master
+git log --oneline --decorate --graph --all 
+git br -v 
+git br --merged
+git br --no-merged
+git ls-remote
+git remote show
+git remote/branch : git origin/master
+
+
+
